@@ -18,6 +18,7 @@ Start by thinking about the projects you already use or want to use. The project
 Check out these sites to find a project looking for your help:
 
 - [Great for new contributors](https://github.com/showcases/great-for-new-contributors?s=language)
+- [Explore Good First Issues](https://github.com/topics/good-first-issue)
 - [Your First PR](https://yourfirstpr.github.io/)
 - [Up For Grabs](https://up-for-grabs.net/#/)
 - [CodeTriage](https://www.codetriage.com/)
