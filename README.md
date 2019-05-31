@@ -8,6 +8,9 @@ This event is open to programmers from all levels of experience. Individuals are
 ## What is FLOSS?
 Free licensed open-source software (FLOSS) is software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to improve the design of the software voluntarily. This is in contrast to proprietary software, where the software is under restrictive copyright licensing, and the source code is usually hidden from the users.
 
+## The "How to contribute to Open Source" Guide
+There is an excellencent guide on how to contribute to open source at [opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/).
+
 ## Finding a project to work on
 Contributing to open source happens at all levels, across projects and design, documentation, operations, and code. You don’t need to overthink what exactly your first contribution will be, or how it will look
 
@@ -24,4 +27,4 @@ Check out these sites to find a project looking for your help:
 - [CodeTriage](https://www.codetriage.com/)
 
 ## What do I do if I am stuck or blocked?
-Please! Ask for help. There will be mentors in the room available to help with brainstorming on ideas and technical experts to help unblock your developer environment. Mentors are open and available through our [OHUB FLOSS Slack](https://ohub-floss-atl.slack.com)
+Please! Ask for help. There will be mentors in the room available to help with brainstorming on ideas and technical experts to help unblock your developer environment. Mentors are open and available through our [OHUB FLOSS Slack](https://ohub-floss-atl.slack.com).
