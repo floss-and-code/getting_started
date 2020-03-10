@@ -12,7 +12,7 @@ Free licensed open-source software (FLOSS) is software that can be classified as
 There is an excellencent guide on how to contribute to open source at [opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/).
 
 ## Finding a project to work on
-Contributing to open source happens at all levels, across projects and design, documentation, operations, and code. You don’t need to overthink what exactly your first contribution will be, or how it will look
+Contributing to open source happens at all levels, across projects and design, documentation, operations, and code. You don’t need to overthink what exactly your first contribution will be, or how it will look.
 
 ### A project you already use
 Start by thinking about the projects you already use or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to.
@@ -27,4 +27,4 @@ Check out these sites to find a project looking for your help:
 - [CodeTriage](https://www.codetriage.com/)
 
 ## What do I do if I am stuck or blocked?
-Please! Ask for help. There will be mentors in the room available to help with brainstorming on ideas and technical experts to help unblock your developer environment. Mentors are open and available through our [OHUB FLOSS Slack](https://ohub-floss-atl.slack.com).
+Please! Ask for help. There will be mentors in the room available to help with brainstorming on ideas and technical experts to help unblock your developer environment. Mentors are open and available through our [open source guide](https://opensource.guide/).
