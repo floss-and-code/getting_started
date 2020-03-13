@@ -14,6 +14,13 @@ There is an excellencent guide on how to contribute to open source at [opensourc
 ## Finding a project to work on
 Contributing to open source happens at all levels, across projects and design, documentation, operations, and code. You don’t need to overthink what exactly your first contribution will be, or how it will look.
 
+## CodeBuddies
+CodeBuddies is a global community of amazing people who help each other become better at software development through conversations on Slack and peer-to-peer organized study groups and virtual hangouts.
+
+1. Online community: codebuddies.org/slack
+2. https://codebuddies.org 
+3. Contribute back at https://github.com/codebuddies
+
 ### A project you already use
 Start by thinking about the projects you already use or want to use. The projects you’ll actively contribute to are the ones you find yourself coming back to.
 
