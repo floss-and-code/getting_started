@@ -1,6 +1,6 @@
 # FLOSS and Code Hack Day
 
-Presented by Opportunity Hub (OHUB), Omega Psi Phi Fraternity, Friendship Foundation and GitHub, The FLOSS and Code event is a one-day hackathon where attendees will get hands-on experience contributing to meaningful open source projects on GitHub. Companies of all sizes need open source software to run effectively and hiring managers at major technology companies have cited regularly that candidates with open source experience consistently stand out from the rest.
+The FLOSS and Code event is a one-day hackathon where attendees will get hands-on experience contributing to meaningful open source projects on GitHub. Companies of all sizes need open source software to run effectively and hiring managers at major technology companies have cited regularly that candidates with open source experience consistently stand out from the rest.
 
 ## Attendee expectations
 This event is open to programmers from all levels of experience. Individuals are expected to have a basic understanding of programming and the ability to contribute to projects using GitHub. For those interested in attending, but do not have that experience, they can take our [Introduction to GitHub course](https://lab.github.com/githubtraining/introduction-to-github).
