@@ -6,7 +6,7 @@ The FLOSS and Code event is a one-day hackathon where attendees will get hands-o
 This event is open to programmers from all levels of experience. Individuals are expected to have a basic understanding of programming and the ability to contribute to projects using GitHub. For those interested in attending, but do not have that experience, they can take our [Introduction to GitHub course](https://lab.github.com/githubtraining/introduction-to-github).
 
 ## What is FLOSS?
-Free licensed open-source software (FLOSS) is software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to improve the design of the software voluntarily. This is in contrast to proprietary software, where the software is under restrictive copyright licensing, and the source code is usually hidden from the users.
+Free/libre open-source software (FLOSS) is software that can be classified as both free software and open-source software. That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to improve the design of the software voluntarily. This is in contrast to proprietary software, where the software is under restrictive copyright licensing, and the source code is usually hidden from the users.
 
 ## The "How to contribute to Open Source" Guide
 There is an excellencent guide on how to contribute to open source at [opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/).
